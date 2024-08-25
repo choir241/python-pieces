@@ -1,9 +1,7 @@
-const doc = `
 ---
 title: My title
 ---
 
-# {% $frontmatter.title %} 
-`;
+# This is a test
 
-const ast = Markdoc.parse(doc);
+## Hello world
