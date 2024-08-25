@@ -1,5 +1,7 @@
 ---
-layout: article
-title: SDKs
-description: Get started with Appwrite SDKs and learn how to use them to add authentication, user management, file storage, and more to your apps.
+title: "Your Title Here"
 ---
+
+# Your Markdown Content
+
+Your markdown content goes here. You can start with headings, paragraphs, or any other elements.
