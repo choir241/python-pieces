@@ -1,7 +1,7 @@
 ---
 title: "Your Title Here"
+date: "Your Date Here"
 ---
 
 # Your Markdown Content
-
-Your markdown content goes here. You can start with headings, paragraphs, or any other elements.
+Your markdown content goes here.
