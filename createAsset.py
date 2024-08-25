@@ -1,3 +1,7 @@
+-----
+title: "title"
+-----
+
 from pieces_os_client.wrapper import PiecesClient
 from pieces_os_client import FragmentMetadata
 
