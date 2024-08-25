@@ -1,7 +1,9 @@
+const doc = `
 ---
-title: "Your Title Here"
-date: "Your Date Here"
+title: My title
 ---
 
-# Your Markdown Content
-Your markdown content goes here.
+# {% $frontmatter.title %} 
+`;
+
+const ast = Markdoc.parse(doc);
